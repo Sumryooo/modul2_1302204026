@@ -16,5 +16,35 @@ namespace modul2_1302204026
         {
             InitializeComponent();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button13_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tmbl2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tmbl12_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tmbl11_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
