@@ -71,6 +71,7 @@
             this.tmbl8.TabIndex = 7;
             this.tmbl8.Text = "5";
             this.tmbl8.UseVisualStyleBackColor = true;
+            this.tmbl8.Click += new System.EventHandler(this.tmbl8_Click);
             // 
             // tmbl5
             // 
@@ -100,6 +101,7 @@
             this.tmbl10.TabIndex = 10;
             this.tmbl10.Text = "7";
             this.tmbl10.UseVisualStyleBackColor = true;
+            this.tmbl10.Click += new System.EventHandler(this.tmbl10_Click);
             // 
             // tmbl7
             // 
@@ -109,6 +111,7 @@
             this.tmbl7.TabIndex = 11;
             this.tmbl7.Text = "4";
             this.tmbl7.UseVisualStyleBackColor = true;
+            this.tmbl7.Click += new System.EventHandler(this.tmbl7_Click);
             // 
             // tmbl4
             // 
@@ -118,6 +121,7 @@
             this.tmbl4.TabIndex = 12;
             this.tmbl4.Text = "1";
             this.tmbl4.UseVisualStyleBackColor = true;
+            this.tmbl4.Click += new System.EventHandler(this.tmbl4_Click);
             // 
             // tmbl6
             // 
@@ -127,6 +131,7 @@
             this.tmbl6.TabIndex = 13;
             this.tmbl6.Text = "3";
             this.tmbl6.UseVisualStyleBackColor = true;
+            this.tmbl6.Click += new System.EventHandler(this.tmbl6_Click);
             // 
             // tmbl9
             // 
@@ -136,6 +141,7 @@
             this.tmbl9.TabIndex = 15;
             this.tmbl9.Text = "6";
             this.tmbl9.UseVisualStyleBackColor = true;
+            this.tmbl9.Click += new System.EventHandler(this.tmbl9_Click);
             // 
             // tmbl12
             // 
@@ -163,6 +169,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(168, 22);
             this.textBox1.TabIndex = 18;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // Form1
             // 
